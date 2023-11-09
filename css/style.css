@@ -166,7 +166,7 @@ h1{
     background-color: rgb(10, 87, 110);
     border-radius: 2px;
     margin-top: -35px;
-    margin-left: 605px;
+    margin-left: 580px;
 }
 .div5{
     width: 350px;
@@ -621,7 +621,7 @@ display: inline-block;
     background-color: #1f0557f8;
     border: .5px  rgb(8, 3, 58) solid;
     margin-top: -15px;
-    margin-left: 625px;
+    margin-left: 600px;
 
 }
 .h22{
@@ -1047,7 +1047,7 @@ margin-top: 50px;
 .item{
     float: left;
     background-color: rgb(228, 228, 228);
-    width: 27%;
+    width: 26%;
     padding:  14px 16px;
     text-align: center;
     height: 350px;
@@ -1117,7 +1117,7 @@ color: rgb(2, 2, 22);
 
 .title{
     color: rgb(73, 73, 73);
-    font-size: 25px;
+    font-size: 23px;
     text-align: center;
     margin-top:10px;
     text-transform: uppercase;
@@ -1142,7 +1142,7 @@ color: rgb(2, 2, 22);
     width: 60px;
     height: 3.5px;
     margin-top: -65px;
-    margin-left: 513px;
+    margin-left: 483px;
 }
 .hteam{
     text-transform: capitalize;
@@ -1444,7 +1444,7 @@ opacity: .5;
     height: 4px;
     background-color: rgb(88, 88, 179);
 margin-top: -20px;
-margin-left: 625px;
+margin-left: 600px;
 
 }
 .h222{
@@ -1523,11 +1523,11 @@ margin-left: 625px;
 }
 .imgdiv{
  
-    width: 290px;
-         height:240px ;
+    width: 230px;
+         height:220px ;
 }
-.dodd{   width: 290px;
-    height:240px ;
+.dodd{   width: 230px;
+    height:220px ;
     margin: 40px 20px;
     position: relative;
     opacity: 1;
@@ -1686,7 +1686,7 @@ margin-top: 50px;
     margin-left: 105px;
     font-size: 50px;
     color: rgb(92, 92, 90);
-    margin-top: -65px;
+    margin-top: -45px;
     display: inline;
     position: absolute;
     margin-left: 170px;
